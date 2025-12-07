@@ -1,0 +1,124 @@
+§ 611 BGB
+(1) Durch den Dienstvertrag wird derjenige, welcher Dienste zusagt, zur Leistung der versprochenen Dienste, der andere Teil zur Gewährung der vereinbarten Vergütung verpflichtet.
+(2) Gegenstand des Dienstvertrags können Dienste jeder Art sein.
+
+
+§ 612 BGB
+(1) Eine Vergütung gilt als stillschweigend vereinbart, wenn die Dienstleistung den Umständen nach nur gegen eine Vergütung zu erwarten ist.
+(2) Ist die Höhe der Vergütung nicht bestimmt, so ist bei dem Bestehen einer Taxe die taxmäßige Vergütung, in Ermangelung einer Taxe die übliche Vergütung als vereinbart anzusehen.
+(3) (weggefallen)
+
+
+§ 613 BGB
+Der zur Dienstleistung Verpflichtete hat die Dienste im Zweifel in Person zu leisten. Der Anspruch auf die Dienste ist im Zweifel nicht übertragbar.
+
+
+§ 614 BGB
+Die Vergütung ist nach der Leistung der Dienste zu entrichten. Ist die Vergütung nach Zeitabschnitten bemessen, so ist sie nach dem Ablauf der einzelnen Zeitabschnitte zu entrichten.
+
+
+§ 615 BGB
+Kommt der Dienstberechtigte mit der Annahme der Dienste in Verzug, so kann der Verpflichtete für die infolge des Verzugs nicht geleisteten Dienste die vereinbarte Vergütung verlangen, ohne zur Nachleistung verpflichtet zu sein. Er muss sich jedoch den Wert desjenigen anrechnen lassen, was er infolge des Unterbleibens der Dienstleistung erspart oder durch anderweitige Verwendung seiner Dienste erwirbt oder zu erwerben böswillig unterlässt. Die Sätze 1 und 2 gelten entsprechend in den Fällen, in denen der Arbeitgeber das Risiko des Arbeitsausfalls trägt.
+
+
+§ 616 BGB
+Der zur Dienstleistung Verpflichtete wird des Anspruchs auf die Vergütung nicht dadurch verlustig, dass er für eine verhältnismäßig nicht erhebliche Zeit durch einen in seiner Person liegenden Grund ohne sein Verschulden an der Dienstleistung verhindert wird. Er muss sich jedoch den Betrag anrechnen lassen, welcher ihm für die Zeit der Verhinderung aus einer auf Grund gesetzlicher Verpflichtung bestehenden Kranken- oder Unfallversicherung zukommt.
+
+
+§ 617 BGB
+(1) Ist bei einem dauernden Dienstverhältnis, welches die Erwerbstätigkeit des Verpflichteten vollständig oder hauptsächlich in Anspruch nimmt, der Verpflichtete in die häusliche Gemeinschaft aufgenommen, so hat der Dienstberechtigte ihm im Falle der Erkrankung die erforderliche Verpflegung und ärztliche Behandlung bis zur Dauer von sechs Wochen, jedoch nicht über die Beendigung des Dienstverhältnisses hinaus, zu gewähren, sofern nicht die Erkrankung von dem Verpflichteten vorsätzlich oder durch grobe Fahrlässigkeit herbeigeführt worden ist. Die Verpflegung und ärztliche Behandlung kann durch Aufnahme des Verpflichteten in eine Krankenanstalt gewährt werden. Die Kosten können auf die für die Zeit der Erkrankung geschuldete Vergütung angerechnet werden. Wird das Dienstverhältnis wegen der Erkrankung von dem Dienstberechtigten nach § 626 gekündigt, so bleibt die dadurch herbeigeführte Beendigung des Dienstverhältnisses außer Betracht.
+(2) Die Verpflichtung des Dienstberechtigten tritt nicht ein, wenn für die Verpflegung und ärztliche Behandlung durch eine Versicherung oder durch eine Einrichtung der öffentlichen Krankenpflege Vorsorge getroffen ist.
+
+
+§ 618 BGB
+(1) Der Dienstberechtigte hat Räume, Vorrichtungen oder Gerätschaften, die er zur Verrichtung der Dienste zu beschaffen hat, so einzurichten und zu unterhalten und Dienstleistungen, die unter seiner Anordnung oder seiner Leitung vorzunehmen sind, so zu regeln, dass der Verpflichtete gegen Gefahr für Leben und Gesundheit soweit geschützt ist, als die Natur der Dienstleistung es gestattet.
+(2) Ist der Verpflichtete in die häusliche Gemeinschaft aufgenommen, so hat der Dienstberechtigte in Ansehung des Wohn- und Schlafraums, der Verpflegung sowie der Arbeits- und Erholungszeit diejenigen Einrichtungen und Anordnungen zu treffen, welche mit Rücksicht auf die Gesundheit, die Sittlichkeit und die Religion des Verpflichteten erforderlich sind.
+(3) Erfüllt der Dienstberechtigte die ihm in Ansehung des Lebens und der Gesundheit des Verpflichteten obliegenden Verpflichtungen nicht, so finden auf seine Verpflichtung zum Schadensersatz die für unerlaubte Handlungen geltenden Vorschriften der §§ 842 bis 846 entsprechende Anwendung.
+
+
+§ 619 BGB
+Die dem Dienstberechtigten nach den §§ 617, 618 obliegenden Verpflichtungen können nicht im Voraus durch Vertrag aufgehoben oder beschränkt werden.
+
+
+§ 620 BGB
+(1) Das Dienstverhältnis endigt mit dem Ablauf der Zeit, für die es eingegangen ist.
+(2) Ist die Dauer des Dienstverhältnisses weder bestimmt noch aus der Beschaffenheit oder dem Zwecke der Dienste zu entnehmen, so kann jeder Teil das Dienstverhältnis nach Maßgabe der §§ 621 bis 623 kündigen.
+(3) Für Arbeitsverträge, die auf bestimmte Zeit abgeschlossen werden, gilt das Teilzeit- und Befristungsgesetz.
+(4) Ein Verbrauchervertrag über eine digitale Dienstleistung kann auch nach Maßgabe der §§ 327c, 327m und 327r Absatz 3 und 4 beendet werden.
+
+
+§ 621 BGB
+Bei einem Dienstverhältnis, das kein Arbeitsverhältnis im Sinne des § 622 ist, ist die Kündigung zulässig,
+1.
+wenn die Vergütung nach Tagen bemessen ist, an jedem Tag für den Ablauf des folgenden Tages;
+2.
+wenn die Vergütung nach Wochen bemessen ist, spätestens am ersten Werktag einer Woche für den Ablauf des folgenden Sonnabends;
+3.
+wenn die Vergütung nach Monaten bemessen ist, spätestens am 15. eines Monats für den Schluss des Kalendermonats;
+4.
+wenn die Vergütung nach Vierteljahren oder längeren Zeitabschnitten bemessen ist, unter Einhaltung einer Kündigungsfrist von sechs Wochen für den Schluss eines Kalendervierteljahrs;
+5.
+wenn die Vergütung nicht nach Zeitabschnitten bemessen ist, jederzeit; bei einem die Erwerbstätigkeit des Verpflichteten vollständig oder hauptsächlich in Anspruch nehmenden Dienstverhältnis ist jedoch eine Kündigungsfrist von zwei Wochen einzuhalten.
+
+
+§ 622 BGB
+(1) Das Arbeitsverhältnis eines Arbeiters oder eines Angestellten (Arbeitnehmers) kann mit einer Frist von vier Wochen zum Fünfzehnten oder zum Ende eines Kalendermonats gekündigt werden.
+(2) Für eine Kündigung durch den Arbeitgeber beträgt die Kündigungsfrist, wenn das Arbeitsverhältnis in dem Betrieb oder Unternehmen
+1.
+zwei Jahre bestanden hat, einen Monat zum Ende eines Kalendermonats,
+2.
+fünf Jahre bestanden hat, zwei Monate zum Ende eines Kalendermonats,
+3.
+acht Jahre bestanden hat, drei Monate zum Ende eines Kalendermonats,
+4.
+zehn Jahre bestanden hat, vier Monate zum Ende eines Kalendermonats,
+5.
+zwölf Jahre bestanden hat, fünf Monate zum Ende eines Kalendermonats,
+6.
+15 Jahre bestanden hat, sechs Monate zum Ende eines Kalendermonats,
+7.
+20 Jahre bestanden hat, sieben Monate zum Ende eines Kalendermonats.
+(3) Während einer vereinbarten Probezeit, längstens für die Dauer von sechs Monaten, kann das Arbeitsverhältnis mit einer Frist von zwei Wochen gekündigt werden.
+(4) Von den Absätzen 1 bis 3 abweichende Regelungen können durch Tarifvertrag vereinbart werden. Im Geltungsbereich eines solchen Tarifvertrags gelten die abweichenden tarifvertraglichen Bestimmungen zwischen nicht tarifgebundenen Arbeitgebern und Arbeitnehmern, wenn ihre Anwendung zwischen ihnen vereinbart ist.
+(5) Einzelvertraglich kann eine kürzere als die in Absatz 1 genannte Kündigungsfrist nur vereinbart werden,
+1.
+wenn ein Arbeitnehmer zur vorübergehenden Aushilfe eingestellt ist; dies gilt nicht, wenn das Arbeitsverhältnis über die Zeit von drei Monaten hinaus fortgesetzt wird;
+2.
+wenn der Arbeitgeber in der Regel nicht mehr als 20 Arbeitnehmer ausschließlich der zu ihrer Berufsbildung Beschäftigten beschäftigt und die Kündigungsfrist vier Wochen nicht unterschreitet.
+Bei der Feststellung der Zahl der beschäftigten Arbeitnehmer sind teilzeitbeschäftigte Arbeitnehmer mit einer regelmäßigen wöchentlichen Arbeitszeit von nicht mehr als 20 Stunden mit 0,5 und nicht mehr als 30 Stunden mit 0,75 zu berücksichtigen. Die einzelvertragliche Vereinbarung längerer als der in den Absätzen 1 bis 3 genannten Kündigungsfristen bleibt hiervon unberührt.
+(6) Für die Kündigung des Arbeitsverhältnisses durch den Arbeitnehmer darf keine längere Frist vereinbart werden als für die Kündigung durch den Arbeitgeber.
+
+
+§ 623 BGB
+Die Beendigung von Arbeitsverhältnissen durch Kündigung oder Auflösungsvertrag bedürfen zu ihrer Wirksamkeit der Schriftform; die elektronische Form ist ausgeschlossen.
+
+
+§ 624 BGB
+Ist das Dienstverhältnis für die Lebenszeit einer Person oder für längere Zeit als fünf Jahre eingegangen, so kann es von dem Verpflichteten nach dem Ablauf von fünf Jahren gekündigt werden. Die Kündigungsfrist beträgt sechs Monate.
+
+
+§ 625 BGB
+Wird das Dienstverhältnis nach dem Ablauf der Dienstzeit von dem Verpflichteten mit Wissen des anderen Teiles fortgesetzt, so gilt es als auf unbestimmte Zeit verlängert, sofern nicht der andere Teil unverzüglich widerspricht.
+
+
+§ 626 BGB
+(1) Das Dienstverhältnis kann von jedem Vertragsteil aus wichtigem Grund ohne Einhaltung einer Kündigungsfrist gekündigt werden, wenn Tatsachen vorliegen, auf Grund derer dem Kündigenden unter Berücksichtigung aller Umstände des Einzelfalles und unter Abwägung der Interessen beider Vertragsteile die Fortsetzung des Dienstverhältnisses bis zum Ablauf der Kündigungsfrist oder bis zu der vereinbarten Beendigung des Dienstverhältnisses nicht zugemutet werden kann.
+(2) Die Kündigung kann nur innerhalb von zwei Wochen erfolgen. Die Frist beginnt mit dem Zeitpunkt, in dem der Kündigungsberechtigte von den für die Kündigung maßgebenden Tatsachen Kenntnis erlangt. Der Kündigende muss dem anderen Teil auf Verlangen den Kündigungsgrund unverzüglich schriftlich mitteilen.
+
+
+§ 627 BGB
+(1) Bei einem Dienstverhältnis, das kein Arbeitsverhältnis im Sinne des § 622 ist, ist die Kündigung auch ohne die in § 626 bezeichnete Voraussetzung zulässig, wenn der zur Dienstleistung Verpflichtete, ohne in einem dauernden Dienstverhältnis mit festen Bezügen zu stehen, Dienste höherer Art zu leisten hat, die auf Grund besonderen Vertrauens übertragen zu werden pflegen.
+(2) Der Verpflichtete darf nur in der Art kündigen, dass sich der Dienstberechtigte die Dienste anderweit beschaffen kann, es sei denn, dass ein wichtiger Grund für die unzeitige Kündigung vorliegt. Kündigt er ohne solchen Grund zur Unzeit, so hat er dem Dienstberechtigten den daraus entstehenden Schaden zu ersetzen.
+
+
+§ 628 BGB
+(1) Wird nach dem Beginn der Dienstleistung das Dienstverhältnis auf Grund des § 626 oder des § 627 gekündigt, so kann der Verpflichtete einen seinen bisherigen Leistungen entsprechenden Teil der Vergütung verlangen. Kündigt er, ohne durch vertragswidriges Verhalten des anderen Teiles dazu veranlasst zu sein, oder veranlasst er durch sein vertragswidriges Verhalten die Kündigung des anderen Teiles, so steht ihm ein Anspruch auf die Vergütung insoweit nicht zu, als seine bisherigen Leistungen infolge der Kündigung für den anderen Teil kein Interesse haben. Ist die Vergütung für eine spätere Zeit im Voraus entrichtet, so hat der Verpflichtete sie nach Maßgabe des § 346 oder, wenn die Kündigung wegen eines Umstands erfolgt, den er nicht zu vertreten hat, nach den Vorschriften über die Herausgabe einer ungerechtfertigten Bereicherung zurückzuerstatten.
+(2) Wird die Kündigung durch vertragswidriges Verhalten des anderen Teiles veranlasst, so ist dieser zum Ersatz des durch die Aufhebung des Dienstverhältnisses entstehenden Schadens verpflichtet.
+
+
+§ 629 BGB
+Nach der Kündigung eines dauernden Dienstverhältnisses hat der Dienstberechtigte dem Verpflichteten auf Verlangen angemessene Zeit zum Aufsuchen eines anderen Dienstverhältnisses zu gewähren.
+
+
+§ 630 BGB
+Bei der Beendigung eines dauernden Dienstverhältnisses kann der Verpflichtete von dem anderen Teil ein schriftliches Zeugnis über das Dienstverhältnis und dessen Dauer fordern. Das Zeugnis ist auf Verlangen auf die Leistungen und die Führung im Dienst zu erstrecken. Das Zeugnis kann mit Einwilligung des Verpflichteten in elektronischer Form erteilt werden. Wenn der Verpflichtete ein Arbeitnehmer ist, findet § 109 der Gewerbeordnung Anwendung.
