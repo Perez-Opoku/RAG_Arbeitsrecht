@@ -213,3 +213,5 @@ Gesetze/*/
 *.sqlite3
 *.bin
 *.pickle
+LLM/
+*.gguf
