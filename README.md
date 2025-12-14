@@ -1,15 +1,14 @@
 # Motivation und Forschungsfrage
 
-Motivation
-Juristische Texte sind durch eine komplexe Fachsprache und enorme Textmengen gekennzeichnet.
-Herkömmliche Suchmethoden (Keyword-Search) stoßen hier oft an ihre Grenzen, da Laien häufig nicht den exakten juristischen Terminus kennen.
-Im Thema Arbeitnehmer Rechte stehen junge Menschen, ohne Erfahrung und wissen oft vor der Herausforderung ihre Rechte einzufordern. Sie werden schnell Opfer in einem System das versucht die unswissenheit einzelner für eigennützige Ziele auszunuten.
-Das Ziel dieses Projekts ist es, dieses Problem mittels Vektordatenbanken aufzugreifen und eine kleine Demo zu erstellen um zu Zeigen wie diese heute schon genutzt werden können um unwissende Menschen konkrete Inhalte zu vermitteln.
-Durch die Umwandlung von Gesetzestexten in hochdimensionale Vektoren (Embeddings) soll eine semantische Suche ermöglicht werden, die den Sinn einer Anfrage versteht, statt nur Buchstaben abzugleichen. Zudem sollen Visualisierungstechniken genutzt werden, um zu prüfen, ob das Modell juristische Themengebiete oder Gesetze, wie das Kündigungsschutzgesetz(KSchG) oder das Mindestlohngesetz(MiLoG), eigenständig unterscheiden kann.
-Ferner wollen wir an Themen wie RAG anknüpfen wie diese von diesem Punkt an dann aus den Embeddings generative Texte kreieren würde.
+## Motivation
 
+Juristische Texte sind durch eine komplexe Fachsprache und enorme Textmengen gekennzeichnet. Herkömmliche Suchmethoden (Keyword-Search) stoßen hier schnell an ihre Grenzen, da Laien häufig nicht den exakten juristischen Terminus kennen. Dies zeigt sich besonders deutlich im Arbeitsrecht: Berufseinsteiger und junge Menschen stehen oft vor der Herausforderung, ihre Rechte einzufordern, verfügen aber nicht über das nötige Vokabular, um sich in den Gesetzestexten zurechtzufinden. Diese Informationsasymmetrie kann dazu führen, dass berechtigte Ansprüche aus Unwissenheit nicht geltend gemacht werden.
 
-Forschungsfrage
+Das Ziel dieses Projekts ist es, dieses Problem mittels Vektordatenbanken aufzugreifen. Es soll demonstrativ gezeigt werden, wie moderne Technologien genutzt werden können, um komplexes juristisches Wissen auch für Laien zugänglich zu machen. Durch die Umwandlung von Gesetzestexten in hochdimensionale Vektoren (Embeddings) wird eine semantische Suche ermöglicht, die den Sinn einer Anfrage versteht („Ich wurde gefeuert“), statt nur Buchstaben abzugleichen („Kündigung“).
+
+Zudem sollen Visualisierungstechniken genutzt werden, um zu prüfen, ob das Modell juristische Themengebiete – wie etwa das Kündigungsschutzgesetz (KSchG) oder das Mindestlohngesetz (MiLoG) – eigenständig unterscheiden kann. Abschließend wird ein Ausblick darauf gegeben, wie diese Architektur als Basis für Retrieval-Augmented Generation (RAG) dienen kann, um zukünftig generative Antworten zu erzeugen.
+
+## Forschungsfrage
 
 Wie lassen sich deutsche Gesetzestexte mithilfe von modernen Embeddings (Jina AI) und Vektordatenbanken (Chroma DB) semantisch durchsuchbar machen,
 und welche latenten Strukturen lassen sich dabei durch Dimensionsreduktion (PCA, t-SNE, UMAP) sichtbar machen?
