@@ -1,0 +1,2 @@
+# Eigenständigkeitserklärung
+Diese Arbeit ist die eigene Leistung meiner Gruppe. Sofern wir fremde Quellen verwendet haben, sind diese Stellen entsprechend gekennzeichnet. Wir weisen darauf hin, dass zur technischen Umsetzung und zum Debugging von Code-Teilen generative KI-Tools (z. B. ChatGPT/Claude/Jina) unterstützend eingesetzt wurden. Die konzeptionelle Planung, die Auswahl der Methoden sowie die Analyse und Interpretation der Ergebnisse sind vollständig unsere eigene intellektuelle Leistung
