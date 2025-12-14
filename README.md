@@ -13,3 +13,5 @@ Zudem sollen Visualisierungstechniken genutzt werden, um zu prüfen, ob das Mode
 Wie lassen sich deutsche Gesetzestexte mithilfe von modernen Embeddings (Jina AI) und Vektordatenbanken (Chroma DB) semantisch durchsuchbar machen,
 und welche latenten Strukturen lassen sich dabei durch Dimensionsreduktion (PCA, t-SNE, UMAP) sichtbar machen?
 
+GITHUB-LINK: https://github.com/Perez-Opoku/RAG_Arbeitsrecht.git
+
