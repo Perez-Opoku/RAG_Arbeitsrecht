@@ -9,7 +9,7 @@ Durch die Umwandlung von Gesetzestexten in hochdimensionale Vektoren (Embeddings
 Ferner wollen wir an Themen wie RAG anknüpfen wie diese von diesem Punkt an dann aus den Embeddings generative Texte kreieren würde.
 
 
-Unsere Motivation bei
+Forschungsfrage
 
 Wie lassen sich deutsche Gesetzestexte mithilfe von modernen Embeddings (Jina AI) und Vektordatenbanken (Chroma DB) semantisch durchsuchbar machen,
 und welche latenten Strukturen lassen sich dabei durch Dimensionsreduktion (PCA, t-SNE, UMAP) sichtbar machen?
